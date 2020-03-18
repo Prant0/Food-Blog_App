@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314485127501",
+    "firebase_url": "https://blog-app-84953.firebaseio.com",
+    "project_id": "blog-app-84953",
+    "storage_bucket": "blog-app-84953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314485127501:android:8a958a1ac48618dc189f04",
+        "android_client_info": {
+          "package_name": "com.pencilbox.blog_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314485127501-has0v3pbv4n7e8cj02euca95u6te1e4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Um9mwiZsKk4C0h53zdd1XydWC6sNHyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314485127501-has0v3pbv4n7e8cj02euca95u6te1e4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
